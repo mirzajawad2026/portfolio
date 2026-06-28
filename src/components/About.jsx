@@ -16,16 +16,16 @@ function About() {
           <p className="about-text">
             Hi! I’m Mirza Muhammad Jawad Ali Kazmi, a 14-year-old aspiring web
             developer. I’m passionate about coding and love creating websites
-            and interactive applications. I’m skilled in HTML, CSS, and
-            JavaScript, and I’m exploring React to make dynamic, user-friendly
-            web experiences. I enjoy learning by building real projects and
-            experimenting with new ideas. My goal is to grow as a web developer,
-            work on meaningful projects, and continue improving my skills while
-            having fun in the process.
+            and interactive applications. I’m skilled in HTML, CSS, JavaScript, 
+            React.JS, Express.JS, Node.JS and python I’m exploring React to make 
+            dynamic, user-friendly web experiences. I enjoy learning by building 
+            real projects and experimenting with new ideas. My goal is to grow as 
+            a web developer, work on meaningful projects, and continue improving my
+            skills while having fun in the process.
           </p>
 
           <div className="about-info">
-            <span>Beginner</span>
+            <span>Intermediate</span>
             <span>React Enthusiast</span>
             <span>Based in Pakistan</span>
           </div>
