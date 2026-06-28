@@ -7,7 +7,7 @@ function Contact() {
 
       <p>If you have a project or idea, feel free to reach out!</p>
 
-      <a href="mailto:jawad@email.com" className="contact-btn">
+      <a href="mailto:mirzajawad2026@email.com" className="contact-btn">
         Send Email
       </a>
     </section>
