@@ -7,7 +7,7 @@ function Hero() {
     <section className="hero">
       <div className="hero-container">
         <div className="hero-text" data-aos="fade-right">
-          <p className="floating-text">Frontend Developer</p>
+          <p className="floating-text">Full Stack Developer</p>
           <h1>Mirza Jawad</h1>
           <p className="subtitle" data-aos="fade-up" data-aos-delay="200">
           Hi! I’m **Mirza Muhammad Jawad Ali Kazmi**, a 14-year-old aspiring web developer. I’m passionate about coding and inspired by the world of web development.
