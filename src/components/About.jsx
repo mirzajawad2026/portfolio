@@ -17,7 +17,7 @@ function About() {
             Hi! I’m Mirza Muhammad Jawad Ali Kazmi, a 14-year-old aspiring web
             developer. I’m passionate about coding and love creating websites
             and interactive applications. I’m skilled in HTML, CSS, JavaScript, 
-            React.JS, Express.JS, Node.JS and python I’m exploring React to make 
+            React.JS, Next.js, Typescript, Node.JS and python I’m exploring React to make 
             dynamic, user-friendly web experiences. I enjoy learning by building 
             real projects and experimenting with new ideas. My goal is to grow as 
             a web developer, work on meaningful projects, and continue improving my
