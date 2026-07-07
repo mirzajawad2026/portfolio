@@ -11,10 +11,7 @@ function Contact() {
         touch with me.
       </p>
 
-      <a
-        href="mailto:mirzajawad2026@example.com"
-        className="contact-btn"
-      >
+    
         📧 Send Email
       </a>
     </section>
