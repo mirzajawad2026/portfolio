@@ -11,7 +11,7 @@ function Contact() {
         touch with me.
       </p>
 <a>
-  href"malto:mirzajawad2026@gmail.com"
+  href"malto:jawad@gmail.com"
     
         📧 Send Email
       </a>
