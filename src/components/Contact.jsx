@@ -1,14 +1,21 @@
 import React from "react";
 import "../styles/global.css";
+
 function Contact() {
   return (
     <section id="contact" className="contact" data-aos="fade-up">
-      <h2>Let’s Talk</h2>
+      <h2>Let's Talk</h2>
 
-      <p>If you have a project or idea, feel free to reach out!</p>
+      <p>
+        Have a project in mind or just want to say hello? Feel free to get in
+        touch with me.
+      </p>
 
-      <a href="mailto:jawad@email.com" className="contact-btn">
-        Send Email
+      <a
+        href="mailto:mirzajawad2026@example.com"
+        className="contact-btn"
+      >
+        📧 Send Email
       </a>
     </section>
   );
