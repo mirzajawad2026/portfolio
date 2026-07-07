@@ -10,9 +10,8 @@ function Contact() {
         Have a project in mind or just want to say hello? Feel free to get in
         touch with me.
       </p>
-<a>
-  href"malto:jawad@gmail.com"
-    
+
+      <a href="mailto:jawad@gmail.com" className="contact-btn">
         📧 Send Email
       </a>
     </section>
