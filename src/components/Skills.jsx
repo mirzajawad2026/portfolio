@@ -2,7 +2,7 @@ import React from "react";
 import "../styles/global.css";
 
 function Skills() {
-  const skills = ["HTML", "CSS", "JavaScript", "React.JS", "Git", "GitHub", Next.js , TypeScript , "Node.js", "Bootstrap", "Python", "Express.JS"];
+  const skills = ["HTML", "CSS", "JavaScript", "React.JS", "Git", "GitHub", next.js , tpescript , "Node.js", "Bootstrap", "Python", "Express.JS"];
 
   return (
     <section id="skills" data-aos="fade-up">
