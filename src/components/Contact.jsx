@@ -10,7 +10,8 @@ function Contact() {
         Have a project in mind or just want to say hello? Feel free to get in
         touch with me.
       </p>
-
+<a>
+  href"malto:mirzajawad2026@gmail.com"
     
         📧 Send Email
       </a>
